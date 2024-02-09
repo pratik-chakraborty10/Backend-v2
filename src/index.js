@@ -1,3 +1,5 @@
+import express from "express"
+const app = express();
 // require ('dotenv').config()
 import dotenv from 'dotenv'
 // import { DB_NAME } from "./constants";
